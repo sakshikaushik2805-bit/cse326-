@@ -1,7 +1,7 @@
-# CLARIO — Faculty Feedback & Course Evaluation Portal
+# SENSUS — Faculty Feedback & Course Evaluation Portal
 > *"Your Feedback. Our Progress."*
 
-CLARIO is a university-grade academic portal designed for higher education institutions (colleges and universities). It enables students to evaluate courses and faculty members through structured 5-step rubrics while providing academic administrators with real-time analytics, rating distributions, and accreditation compliance reports.
+Sensus is a university-grade academic portal designed for higher education institutions (colleges and universities). It enables students to evaluate courses and faculty members through structured 5-step rubrics while providing academic administrators with real-time analytics, rating distributions, and accreditation compliance reports.
 
 ---
 
