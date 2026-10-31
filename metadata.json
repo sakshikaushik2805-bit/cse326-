@@ -1,0 +1,6 @@
+{
+  "name": "Sensus - Faculty Feedback & Course Evaluation Portal",
+  "description": "A modern, professional academic feedback portal for colleges and universities empowering students and academic administrators with insightful course evaluations and faculty analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
