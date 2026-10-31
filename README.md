@@ -9,10 +9,10 @@ Sensus is a university-grade academic portal designed for higher education insti
 ## 📚 Core Academic Course & Faculty Mappings
 
 1. **Internet Programming (`CSE326`)** — *Mrs. Manjit Kaur* (Dept. of Computer Science & Engineering)
-2. **Orientation to Computing (`CS110`)** — *Dr. Shweta Mehta* (Dept. of Information Technology)
-3. **Database Management (`CS302`)** — *Dr. Patel* (Dept. of Computer Science & Engineering)
-4. **Computer Networks (`CS401`)** — *Prof. Rao* (Dept. of Computer Science & Engineering)
-5. **Cloud Computing & DevOps (`CS405`)** — *Dr. Anita Roy* (Dept. of Cloud Computing & DevOps)
+2. **Orientation to Computing (`CSE111`)** — *Dr. Manjit Kaur* (Dept. of Computer Science & Engineering)
+3. **Environmental Studies (`CHE110`)** — *Dr. Pooja Sharma* (Dept. of Computer Science & Engineering)
+4. **Python Programming (`INT108`)** — *Mr. Rahul Punj* (Dept. of Computer Science & Engineering)
+5. **Mathematics (`MTH165`)** — *Dr. Narinder Singh* (Dept. of Computer Science & Engineering)
 
 ---
 
