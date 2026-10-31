@@ -5,20 +5,6 @@ Sensus is a university-grade academic portal designed for higher education insti
 
 ---
 
-## 🎯 Demonstration Credentials
-
-| Role | Identifier / Email | Password | Pre-seeded Profile & Isolation Scope |
-| :--- | :--- | :--- | :--- |
-| **Student** | `STU-2024-001` or `aarav.sharma@university.edu` | `student123` | **Aarav Sharma** (B.Tech CSE, Sem 5) |
-| **Student** | `STU-2024-042` or `priya.nair@university.edu` | `student123` | **Priya Nair** (B.Tech IT, Sem 5) |
-| **Faculty** | `FAC-01` or `sharma.cs@university.edu` | `faculty123` | **Dr. Sharma** (Sees ONLY Data Structures reviews) |
-| **Faculty** | `FAC-02` or `mehta.it@university.edu` | `faculty123` | **Prof. Mehta** (Sees ONLY Web Development reviews) |
-| **Faculty** | `FAC-03` or `patel.dbms@university.edu` | `faculty123` | **Dr. Patel** (Sees ONLY Database Management reviews) |
-| **Administrator** | `ADMIN-01` or `admin@clario.edu` | `admin123` | **Dr. Katherine Vance** (Dean — Access to ALL faculty & analytics) |
-
-*Tip: Click the **"Demo Credentials"** button in the navigation bar to pre-fill credentials or switch profiles in one click.*
-
----
 
 ## 📚 Core Academic Course & Faculty Mappings
 
