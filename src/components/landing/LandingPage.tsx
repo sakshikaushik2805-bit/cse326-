@@ -1,8 +1,5 @@
 import React from 'react';
-import analyticsPreview from '../../
-  assests/images/
-  clario_analytics_preview_1793459987030.jpg';
-
+import analyticsPreview from '../../assets/images/clario_analytics_preview_1793459987030.jpg';
 import { useApp } from '../../context/AppContext';
 import { 
   GraduationCap, 
