@@ -1,4 +1,8 @@
 import React from 'react';
+import analyticsPreview from '../../
+  assests/images/
+  clario_analytics_preview_1793459987030.jpg';
+
 import { useApp } from '../../context/AppContext';
 import { 
   GraduationCap, 
@@ -94,7 +98,7 @@ export const LandingPage: React.FC = () => {
             <div className="lg:col-span-5 relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-slate-200/80 bg-white">
                 <img
-                  src="/src/assets/images/clario_analytics_preview_1793459987030.jpg"
+                  src={analyticsPreview}
                   alt="Sensus Academic Analytics Dashboard Preview"
                   className="w-full h-auto object-cover"
                   referrerPolicy="no-referrer"
@@ -122,7 +126,7 @@ export const LandingPage: React.FC = () => {
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-6">
         <div className="rounded-2xl overflow-hidden shadow-lg border border-slate-200 relative h-64 sm:h-80 md:h-96">
           <img
-            src="/assets/aistudio/image_c961c59a.png"
+            src={`${import.meta.env.BASE_URL}assets/aistudio/image_c961c59a.png`}
             alt="University Campus Academic Center"
             className="w-full h-full object-cover object-center"
             referrerPolicy="no-referrer"
