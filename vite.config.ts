@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: 'cse326-/',
+    base: '/cse326-/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
